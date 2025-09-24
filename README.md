@@ -7,7 +7,7 @@ macOS.
 - Open your **browser** and 
     - Visit the official **Node.js** download page:
     - or copy and paste this link below to your browser
-        - https://nodejs.org/en/download\
+        - https://nodejs.org/en/download
 
 - Scroll down
     1. Select **Your operating system** under the prebuilt Node.js section.
