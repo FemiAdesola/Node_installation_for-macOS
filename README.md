@@ -11,7 +11,7 @@ macOS.
 
 - Scroll down
     1. Select **Your operating system** under the prebuilt Node.js section.
-        - For exampel **macOS**
+        - For example **macOS**
     2. Click **macOS Installer (.pkg)**
 
 ![Download](/img/Download.png)
